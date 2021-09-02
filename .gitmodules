@@ -1,0 +1,3 @@
+[submodule "OpenGL/ogl"]
+	path = OpenGL/ogl
+	url = https://github.com/opengl-tutorials/ogl
